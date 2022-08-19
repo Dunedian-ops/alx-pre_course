@@ -1,1 +1,1 @@
-My first readme
+This is tough but we push through
